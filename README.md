@@ -60,22 +60,5 @@ This project provides a **diagnostic and visual solution** that allows business 
 
 ---
 
-## Dashboard Preview
-![Dashboard Screenshot](./images/dashboard.png)  
-*(Example view: KPIs, map visualization, segmented charts for fares and payment methods)*
-
----
-
-## Key Results
-- Automated pipelines reduced **manual reporting time** by ~40%.  
-- Enabled **real-time KPI tracking** for 100K+ trips.  
-- Delivered **transparent, interactive dashboards** for executives and analysts to monitor revenue and demand patterns.  
-
----
-
 ## Contribution
 This project was built using the open-source **[Mage.ai](https://github.com/mage-ai/mage-ai)** pipeline tool. Contributions and improvements are welcome!  
-
----
-
-## Repository Structure
