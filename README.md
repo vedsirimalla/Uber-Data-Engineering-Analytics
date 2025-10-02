@@ -7,7 +7,7 @@ The goal is to build a scalable pipeline and interactive dashboard that enables 
 ---
 
 ## Problem Statement
-In large-scale ride-hailing operations like Uber, raw trip data is vast and messy — making it difficult for stakeholders to quickly analyze **revenue, demand, trip behavior, and operational costs**.  
+In large-scale ride hailing operations like Uber, raw trip data is vast and messy, making it difficult for stakeholders to quickly analyze **revenue, demand, trip behavior, and operational costs**.  
 
 **Challenge:**  
 - Multiple trip records (pickup/dropoff times, fares, payment methods, passenger counts) were not readily available for **analysis, forecasting, or decision-making**.  
